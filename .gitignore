@@ -1,0 +1,21 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs (Visual Studio Code, etc)
+.vscode/
+.idea/
+
+# Ficheiros de Backup / Temporários
+*.log
+*.tmp
+*.bak
+
+# Dados de Teste (Caso cries uma pasta para os teus CSVs extraídos)
+/exports/
+*.csv
+
+# Notas de desenvolvimento pessoais
+todo.txt
+notas_privadas.md
